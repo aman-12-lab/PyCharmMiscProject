@@ -1,4 +1,4 @@
-#Make simple Supermarket -program,
+#make simple Supermarket -program,
 
 prices = [10,14,22,33,44,13,22,55,66,77]
 

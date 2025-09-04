@@ -5,8 +5,6 @@ my_join : which joins list given as first argument to a string separated with ch
 as second argument. Function returns a string.
 In this exercise you are not allowed to use Python split and join functions """
 
-
-
 def my_split(s, sep):
     out, word = [], ""
     for c in s:
