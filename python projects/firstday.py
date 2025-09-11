@@ -1,9 +1,9 @@
 """import pandas as pd
-df = pd.read_csv("iris.csv")
+df = pd.read_cimport matplotlib.pyplot as pltsv("iris.csv")
 print(df.head())
 print(df.tail()
 
-import matplotlib.pyplot as plt
+
 
 x = [2021,2022,2023,2024,2025]
 
@@ -14,7 +14,7 @@ plt.title('sales record')
 plt.bar(x,y)
 plt.show()"""
 
-import matplotlib.pyplot as plt
+"""import matplotlib.pyplot as plt
 import numpy as np
 
 x = np.linspace(-5, 5, 100)
@@ -29,5 +29,5 @@ plt.title("Graphs of y=2x+1, y=2x+2, y=2x+3")
 plt.legend()
 plt.grid(True)
 plt.show()
-
+"""
 
